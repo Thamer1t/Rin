@@ -65,7 +65,7 @@ module.exports = async (
 *❌Error:* 
 > _No query provided!_
 
-*🌻Usage:*   
+*🌻الاستعمال:*   
 > _${BloomBot.prefix}${currFile} on
 > _${BloomBot.prefix}${currFile} off_`,
       );
