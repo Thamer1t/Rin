@@ -63,9 +63,9 @@ global.keyApi = {
   "pencarikode.xyz": "pais",
   "leyscoders-api.herokuapp.com": "dappakntlll",
 };
-global.packname = "BloomBot";
-global.author = "Magneum™";
-global.name = "BloomBot";
+global.packname = "Rin";
+global.author = "Goomoonryong";
+global.name = "Rin";
 
 global.apiGet = (name, path = "/", query = {}, queryname) =>
   (name in global.nameApi ? global.nameApi[name] : name) +
