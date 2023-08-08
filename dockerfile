@@ -29,7 +29,7 @@ RUN npm install -g yarn
 RUN hash -r
 
 # Clone the repository
-RUN git clone https://github.com/magneum/BloomBot
+RUN git clone https://github.com/Thamer1t/Rin
 
 # Set the working directory
 WORKDIR /BloomBot
