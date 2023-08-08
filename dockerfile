@@ -32,7 +32,7 @@ RUN hash -r
 RUN git clone https://github.com/Thamer1t/Rin
 
 # Set the working directory
-WORKDIR /BloomBot
+WORKDIR /Rin
 
 # Install project dependencies using Yarn
 RUN yarn
